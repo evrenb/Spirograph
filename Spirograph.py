@@ -118,7 +118,7 @@ def main():
     photo1 = ImageTk.PhotoImage(image1)
     image2 = Image.open("Picture2.png")
     photo2 = ImageTk.PhotoImage(image2)
-    image3 = Image.open("Picture2.png")
+    image3 = Image.open("Picture3.png")
     photo3 = ImageTk.PhotoImage(image3)
 
     spirographType = IntVar()
